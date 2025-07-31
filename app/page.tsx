@@ -89,7 +89,7 @@ export default function LandingPage() {
               Who <span className="text-yellow-500">We Are</span>
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              We're The Typed Media — a two-person digital agency combining
+              We&apos;re The Typed Media — a two-person digital agency combining
               speed, style, and conversion-focused strategy. Oussama leads
               client outreach, messaging, and high-converting copy. Majid builds
               lightning-fast, beautifully designed websites. Together, we help
@@ -220,7 +220,7 @@ export default function LandingPage() {
               <span className="text-yellow-500">Speaks for Itself</span>
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              We don't just talk — we build. Here are two real web examples
+              We don&apos;t just talk — we build. Here are two real web examples
               developed by our team.
             </p>
           </div>
@@ -255,7 +255,7 @@ export default function LandingPage() {
                 </div>
                 <div className="p-8">
                   <h3 className="text-2xl font-bold mb-3 text-yellow-500">
-                    Majid's Portfolio
+                    Majid&apos;s Portfolio
                   </h3>
                   <p className="text-gray-400 leading-relaxed">
                     A clean, fast portfolio showcasing personal brand and
@@ -331,7 +331,7 @@ export default function LandingPage() {
             <Card className="bg-gradient-to-br from-yellow-500/5 to-yellow-500/10 border-yellow-500/30 max-w-3xl mx-auto">
               <CardContent className="p-8">
                 <p className="text-lg text-gray-300 mb-6">
-                  Looking to feature your site next? We're currently offering
+                  Looking to feature your site next? We&apos;re currently offering
                   premium builds at startup-friendly rates — book a free
                   strategy call.
                 </p>
@@ -428,7 +428,7 @@ export default function LandingPage() {
         <div className="container mx-auto text-center">
           <div className="max-w-4xl mx-auto space-y-8">
             <h2 className="text-4xl md:text-6xl font-bold leading-tight">
-              Let's create something{" "}
+              Let&apos;s create something{" "}
               <span className="text-yellow-500">unforgettable</span>
             </h2>
             <p className="text-xl md:text-2xl text-gray-300 max-w-2xl mx-auto">
