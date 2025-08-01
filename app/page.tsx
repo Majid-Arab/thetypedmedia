@@ -23,9 +23,8 @@ export default function LandingPage() {
       <nav className="fixed top-0 w-full z-50 bg-black/80 backdrop-blur-md border-b border-yellow-500/20">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="text-xl flex flex-col text-center md:block md:2xl font-bold">
-            <span className="text-yellow-500">The Typed</span>
+            <span className="text-yellow-500">The Typed{" "}</span>
             <span className="text-black bg-yellow-500 px-2 rounded w-fit">
-              {" "}
               Media
             </span>
           </div>
